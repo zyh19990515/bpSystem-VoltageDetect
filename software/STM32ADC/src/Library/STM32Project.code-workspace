@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../BaiduNetdiskDownload/程序源码/STM32Project"
+		},
+		{
+			"name": "stm32demo",
+			"path": "../../../stm32demo"
+		},
+		{
+			"name": "stm32std",
+			"path": "../.."
+		}
+	],
+    "settings": {
+        "files.associations": {
+            "cmath": "c",
+            "limits": "c",
+            "type_traits": "c"
+        }
+    }
+}
